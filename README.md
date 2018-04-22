@@ -1,2 +1,2 @@
 # senior-learning
-algorithms jvm concurrent 
+algorithms jvm concurrency
